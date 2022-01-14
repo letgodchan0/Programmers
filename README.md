@@ -9,7 +9,7 @@
 
 | 문제                                                         | 내가 푼 방법                                                 | 설명                                         | 비고   | 다른 사람 풀이 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------- | ------ | -------------- |
-| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [풀이](C:\Users\livem\Desktop\letgodchan0\programmers\solution\124나라의 숫자.ipynb) |                                              |        |                |
+| [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [풀이](https://github.com/letgodchan0/Programmers/blob/master/solution/124%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.ipynb) |                                              |        |                |
 | [1주차 위클리 챌린지](https://programmers.co.kr/learn/courses/30/lessons/82612) |                                                              |                                              |        |                |
 | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) |                                                              |                                              |        |                |
 | [프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |                                                              |                                              |        |                |
