@@ -1,0 +1,1 @@
+def solution(num, total):return [(total - sum(range(1, num))) // num+i for i in range(num)]
