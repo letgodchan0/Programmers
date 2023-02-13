@@ -1,15 +1,10 @@
-from itertools import combinations
+from itertools import product
 def solution(users, emoticons):
     n, m = len(users), len(emoticons)
     
-    discount = [40, 30, 20, 10] * m
-    lst = set()
-    for i in combinations(discount, m):
-        lst.add(i)
+    discount = [40, 30, 20, 10]
+    discounts = product(discount, repeat=m)
     
-    lst = list(map(lambda x : list(x), lst))
-    discounts = sorted(list(lst), reverse = True)
-
     answer = []
     for discount in discounts:
         total, cnt = 0, 0
